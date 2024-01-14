@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Theme Colors -->
+    <color name="colorPrimary">#3F51B5</color> <!-- Primary color for the app's toolbar -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Darker variant of the primary color -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color for UI elements -->
+
+    <!-- Background Colors -->
+    <color name="colorBackgroundEditText">#FFFFFF</color> <!-- Background color for EditText -->
+    <color name="colorBackgroundButton">#3F51B5</color> <!-- Background color for Button -->
+    <color name="colorBackgroundListView">#E0E0E0</color> <!-- Background color for ListView -->
+
+    <!-- Text Colors -->
+    <color name="colorTextHint">#757575</color> <!-- Text color for hint in EditText -->
+    <color name="colorTextButton">#FFFFFF</color> <!-- Text color for Button -->
+    <color name="colorTextListView">#000000</color> <!-- Text color for items in ListView -->
+
+    <!-- Divider Colors -->
+    <color name="colorDividerListView">#000000</color> <!-- Divider color for ListView -->
+
+    <!-- Elevation Color -->
+    <color name="colorElevation">#808080</color> <!-- Elevation color for shadows -->
+
+    <!-- Add more color resources as needed -->
+    <color name="colorListItemBackground">#FFFFFF</color> <!-- Set your desired color -->
+    <color name="colorListViewBackground">#E0E0E0</color> <!-- Set your desired background color -->
+
+
+</resources>
